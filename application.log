@@ -1,0 +1,8 @@
+2023-04-12 16:44:48,142  INFO [main] Log4jProperties0412:33 - kjdfk
+2023-04-12 16:44:49,369  INFO [main] Log4jProperties0412:40 - Login details entered
+2023-04-12 16:44:53,744  WARN [main] Log4jProperties0412:47 - Login Validated
+2023-04-12 16:44:55,114  WARN [main] Log4jProperties0412:50 - Login chrome browser done
+2023-04-12 16:58:04,479  INFO [main] Log4jProperties0412:33 - Browser launched
+2023-04-12 16:58:06,027  INFO [main] Log4jProperties0412:40 - Login details entered
+2023-04-12 16:58:10,398  WARN [main] Log4jProperties0412:47 - Login Validated
+2023-04-12 16:58:11,478  WARN [main] Log4jProperties0412:50 - Login chrome browser done

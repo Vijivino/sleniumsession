@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="week2.Ex1LoginChromeTesNG"/>
+      <class name="week2.Ex1LoginEdgeTestNG"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

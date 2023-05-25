@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test" parallel="classes">
+    <classes>
+      <class name="week2.Ex2GoogleMultipleTests"/>
+      <class name="week2.Ex2Priority"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
